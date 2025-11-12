@@ -66,8 +66,7 @@ I enjoy solving real-world problems through code and continuously learning new t
 ### 🚀 Featured Projects  
 🌟 [Airline Ticket Booking System (C++)](#)  
 💳 [ATM Machine Simulation (Java)](#)    
-[<img width="376" height="154" alt="image" src="https://github.com/user-attachments/assets/d6d8cf74-a034-45ea-b6d4-cc37c9684e2a" />
- (Python)](#)
+
 
 > *(Add your repo links when ready!)*
 
