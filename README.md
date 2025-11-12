@@ -30,7 +30,7 @@ React • HTML • CSS • JavaScript
 Java (Spring Boot) • Python (Django) • Node.js  
 
 #### 🗄️ Database  
-SQL • PostgreSQL • MongoDB  
+SQL • MySQL • MongoDB  
 
 #### 🧰 Tools & Version Control  
 Git • GitHub • VS Code • Docker  
