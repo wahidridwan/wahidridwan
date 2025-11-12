@@ -66,7 +66,7 @@ I enjoy solving real-world problems through code and continuously learning new t
 ### 🚀 Featured Projects  
 🌟 [Airline Ticket Booking System (C++)](#)  
 💳 [ATM Machine Simulation (Java)](#)    
-    [Sentiment Analyzer UI (Python)](#)
+     [Sentiment Analyzer UI (Python)](#)
 
 > *(Add your repo links when ready!)*
 
