@@ -53,8 +53,7 @@ Git • GitHub • VS Code • Docker
 ### 🚀 Featured Projects  
 🌟 [Airline Ticket Booking System (C++)](#)  
 💳 [ATM Machine Simulation (Java)](#)  
-🧠 [AI Chatbot (Python, NLP)](#)  
-🌐 [Portfolio Website (React + Node.js)](#)  
+
 
 > *(Add your repo links when ready!)*  
 
