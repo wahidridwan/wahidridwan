@@ -68,7 +68,7 @@ I enjoy solving real-world problems through code and continuously learning new t
 💳 [ATM Machine Simulation (Java)](#)    
 🌐 [Sentiment-Analyzer.py (Python)](#)
 
-> *(https://github.com/wahidridwan/SentimentAnalyzerUI)*
+> *(https://github.com/wahidridwan/Air-Line-Ticket-Booking-System-with-c-)*
 > ()*
 
 ---
