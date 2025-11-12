@@ -1,6 +1,3 @@
-<!-- 🌟 Designed by ChatGPT (GPT-5) -->
-<!-- Updated GitHub Profile for Wahid Ridwan with complete skillset -->
-
 <h1 align="center">Hey there 👋, I'm <span style="color:#58a6ff;">Wahid Ridwan</span></h1>
 <h3 align="center">💻 Full Stack Web Developer | Java & Python | Frontend & Backend Engineer</h3>
 
