@@ -66,7 +66,8 @@ I enjoy solving real-world problems through code and continuously learning new t
 ### 🚀 Featured Projects  
 🌟 [Airline Ticket Booking System (C++)](#)  
 💳 [ATM Machine Simulation (Java)](#)    
-🌐 [Sentiment-Analyzer.py (Python)](#)
+🌐 [Sentiment-Analyzer.py (Python)](#)  
+🌟 Restaurant Ordering System  
 
 > *(https://github.com/wahidridwan/Air-Line-Ticket-Booking-System-with-c-)*
 > (https://github.com/wahidridwan/SentimentAnalyzerUI)*
