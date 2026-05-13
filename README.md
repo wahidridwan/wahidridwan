@@ -84,7 +84,6 @@ I enjoy solving real-world problems through code and continuously learning new t
 ### 🤝 Connect with Me  
 
 <p align="center">
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahidridwan58@gmail.com)
 
   <a href="https://www.linkedin.com/in/wahid-ridwan-7959482a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 ---
