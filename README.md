@@ -95,6 +95,7 @@ I enjoy solving real-world problems through code and continuously learning new t
 ---
 
 <p align="center">
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahidridwan58@gmail.com)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:ff7b72&height=120&section=footer"/>
 </p>
 
